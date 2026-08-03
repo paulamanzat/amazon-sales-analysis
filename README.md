@@ -76,6 +76,8 @@ The dashboard was created using:
 -Excel Tables
 -Interactive dashboard using Exel Slicers
 Dashboard Previw
+![Dashboard](dashboard.png)
+
 
 
 
